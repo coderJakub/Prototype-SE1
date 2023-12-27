@@ -3,7 +3,7 @@
 
 .\env\Scripts\activate
 when an error occurs that file is not executable:
-  Set-ExecutionPolicy RemoteSigned -Scope Process
+Set-ExecutionPolicy RemoteSigned -Scope Process
 
 ## Run Django Server
 
